@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_secure_storage: ^9.2.4
+  http: ^1.2.2
+  provider: ^6.1.2
   pull_to_refresh: ^2.0.0
 
 dev_dependencies:
